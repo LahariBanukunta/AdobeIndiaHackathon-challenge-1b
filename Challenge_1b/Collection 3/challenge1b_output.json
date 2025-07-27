@@ -1,0 +1,220 @@
+{
+    "metadata": {
+        "documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Home Chef",
+        "job_to_be_done": "Get ideas for breakfast, lunch and dinner preparation",
+        "processing_timestamp": "2025-07-21T10:33:33.246522"
+    },
+    "matched_headings": [
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 14,
+            "heading": "kitchen",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.4415290951728821
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 2,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 2,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 2,
+            "heading": "Cook",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 2,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 1,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 1,
+            "heading": "Cook",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 2,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 2,
+            "heading": "Cook",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 3,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 4,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 4,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 4,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 5,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 5,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 2,
+            "heading": "Cook",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 2,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 3,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 3,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 4,
+            "heading": "Cook",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 1,
+            "heading": "Cook",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 3,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 6,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 6,
+            "heading": "Cook",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.43776535987854004
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 6,
+            "heading": "cook",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.43776535987854004
+        }
+    ]
+}

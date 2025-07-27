@@ -1,0 +1,298 @@
+{
+    "metadata": {
+        "documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "First-time Tourist",
+        "job_to_be_done": "Find the best cities to visit and local cuisines to try",
+        "processing_timestamp": "2025-07-21T10:16:10.527506"
+    },
+    "matched_headings": [
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 3,
+            "heading": "cuisine",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 6,
+            "heading": "cuisine",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 7,
+            "heading": "cuisine",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 8,
+            "heading": "cuisine",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 9,
+            "heading": "cuisine",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page_number": 2,
+            "heading": "Cuisine:",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5319409370422363
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page_number": 2,
+            "heading": "Cuisine:",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.5319409370422363
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page_number": 2,
+            "heading": "Cuisine:",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.5319409370422363
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page_number": 2,
+            "heading": "Cuisine:",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.5319409370422363
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page_number": 1,
+            "heading": "cuisine",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page_number": 2,
+            "heading": "restaurants,",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.4153371751308441
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page_number": 4,
+            "heading": "restaurants,",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.4153371751308441
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page_number": 2,
+            "heading": "cafes,",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.3938438296318054
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page_number": 4,
+            "heading": "cafes,",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.3938438296318054
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page_number": 9,
+            "heading": "cafes,",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.3938438296318054
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page_number": 4,
+            "heading": "cuisine",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page_number": 1,
+            "heading": "Restaurants",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.47911280393600464
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page_number": 1,
+            "heading": "restaurants",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.47911280393600464
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page_number": 2,
+            "heading": "Restaurants",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.47911280393600464
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page_number": 2,
+            "heading": "Restaurants",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.47911280393600464
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page_number": 5,
+            "heading": "cuisine",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page_number": 5,
+            "heading": "cuisine,",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.45462167263031006
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page_number": 1,
+            "heading": "attractions",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.42054319381713867
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page_number": 9,
+            "heading": "Attractions",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.42054319381713867
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page_number": 9,
+            "heading": "attractions",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.42054319381713867
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 7,
+            "heading": "cities",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.43034762144088745
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 7,
+            "heading": "cities.",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.40123218297958374
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 1,
+            "heading": "catering",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.36451560258865356
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 7,
+            "heading": "City",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.35334068536758423
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 3,
+            "heading": "visit",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.34795448184013367
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page_number": 3,
+            "heading": "Cuisine",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page_number": 3,
+            "heading": "cuisine",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page_number": 3,
+            "heading": "cuisine",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.5083650350570679
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page_number": 5,
+            "heading": "cuisine,",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.45462167263031006
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page_number": 2,
+            "heading": "cities",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.43034762144088745
+        }
+    ]
+}

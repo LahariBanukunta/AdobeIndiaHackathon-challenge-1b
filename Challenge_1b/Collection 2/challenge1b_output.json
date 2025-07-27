@@ -1,0 +1,346 @@
+{
+    "metadata": {
+        "documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "New Acrobat User",
+        "job_to_be_done": "Learn how to edit, export, use generative AI, and test Acrobat features like fill and sign",
+        "processing_timestamp": "2025-07-21T10:47:48.992200"
+    },
+    "matched_headings": [
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "page_number": 3,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "page_number": 3,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "page_number": 5,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "page_number": 6,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Export_2.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Export_2.pdf",
+            "page_number": 1,
+            "heading": "PDF",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.3777374029159546
+        },
+        {
+            "document": "Learn Acrobat - Export_2.pdf",
+            "page_number": 2,
+            "heading": "PDF",
+            "heading_level": "H1",
+            "importance_rank": 3,
+            "score": 0.3777374029159546
+        },
+        {
+            "document": "Learn Acrobat - Export_2.pdf",
+            "page_number": 2,
+            "heading": "PDF.",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.28564202785491943
+        },
+        {
+            "document": "Learn Acrobat - Export_2.pdf",
+            "page_number": 3,
+            "heading": "PDF.",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.28564202785491943
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 7,
+            "heading": "Acrobat/Reader",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5701380372047424
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 7,
+            "heading": "Acrobat/Reader",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.5701380372047424
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 16,
+            "heading": "Acrobat/Reader",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.5701380372047424
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 16,
+            "heading": "Acrobat/Reader",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.5701380372047424
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 16,
+            "heading": "Acrobat/Reader",
+            "heading_level": "H1",
+            "importance_rank": 5,
+            "score": 0.5701380372047424
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "page_number": 4,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "page_number": 9,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "page_number": 9,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "page_number": 11,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 2,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 3,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 3,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Share_2.pdf",
+            "page_number": 2,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Share_2.pdf",
+            "page_number": 2,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Share_2.pdf",
+            "page_number": 5,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Share_2.pdf",
+            "page_number": 8,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Learn Acrobat - Share_2.pdf",
+            "page_number": 9,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Test Your Acrobat Exporting Skills.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 1,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Test Your Acrobat Exporting Skills.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 2,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Test Your Acrobat Exporting Skills.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 3,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Test Your Acrobat Exporting Skills.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 4,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "Test Your Acrobat Exporting Skills.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H3",
+            "importance_rank": 5,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "The Ultimate PDF Sharing Checklist.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H2",
+            "importance_rank": 1,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "The Ultimate PDF Sharing Checklist.pdf",
+            "page_number": 1,
+            "heading": "Acrobat",
+            "heading_level": "H2",
+            "importance_rank": 2,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "The Ultimate PDF Sharing Checklist.pdf",
+            "page_number": 2,
+            "heading": "Acrobat",
+            "heading_level": "H2",
+            "importance_rank": 3,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "The Ultimate PDF Sharing Checklist.pdf",
+            "page_number": 2,
+            "heading": "Acrobat",
+            "heading_level": "H2",
+            "importance_rank": 4,
+            "score": 0.5348880290985107
+        },
+        {
+            "document": "The Ultimate PDF Sharing Checklist.pdf",
+            "page_number": 3,
+            "heading": "Acrobat",
+            "heading_level": "H2",
+            "importance_rank": 5,
+            "score": 0.5348880290985107
+        }
+    ]
+}
